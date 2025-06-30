@@ -49,7 +49,7 @@ class _DashboardState extends State<Dashboard> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        "Olá, Vitor",
+                        "Olá, Luan Mendes Moura",
                         style: TextStyle(
                           color: Colors.white, 
                           fontSize: 17
