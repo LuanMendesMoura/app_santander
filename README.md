@@ -1,6 +1,7 @@
 # app_santander
 
-flutter pub get
+flutter pub get baixa as dependencias
+
 A new Flutter project.
 
 ## Getting Started
