@@ -1,5 +1,6 @@
 # app_santander
 
+flutter pub get
 A new Flutter project.
 
 ## Getting Started
