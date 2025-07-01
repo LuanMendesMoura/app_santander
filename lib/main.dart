@@ -1,3 +1,4 @@
+import 'package:app_santander/views/dashboard.dart';
 import 'package:app_santander/views/splash_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -18,8 +19,9 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SplashScreen()
+      // home: SplashScreen()
       // home: Login(),
+      home: Dashboard()
     );
   }
 }
